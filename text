@@ -1,0 +1,23 @@
+http://localhost/php/fileReadWrite/homework.php?
+profile=woman-waving-hair-1898555.jpg&
+name=Myat+Noe&
+birthday=1999-12-22&
+gender=female&
+language+=javascript
+
+http://localhost/php/fileReadWrite/homework.php?
+photo=woman-waving-hair-1898555.jpg&
+name=Myat+Noe&
+birthday=1999-12-22&
+gender=female&
+language+=jquery
+
+
+file open
+file read
+array
+---->file write(a/w)
+    -->a(append)
+    -->w(overwrite)
+
+file closed
